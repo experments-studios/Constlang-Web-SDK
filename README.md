@@ -1,3 +1,3 @@
 # Constlang Web SDK 
 ## V1.0
-## &copy Ilkin Yahya
+##  © 2026 Ilkin Yahya. All rights reserved.
